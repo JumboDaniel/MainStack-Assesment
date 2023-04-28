@@ -153,7 +153,7 @@ function App() {
                     <div key={index}>
                       <div className="flex gap-3">
                         <img
-                          src={`./src/assets/${location.source}-svgrepo.svg`}
+                          src={`/src/assets/${location.source}-svgrepo.svg`}
                           className="w-[1.3rem]"
                           alt={`${location.source}.svg`}
                           title={`${location.source} logo`}
