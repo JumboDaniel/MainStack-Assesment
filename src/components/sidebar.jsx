@@ -90,7 +90,7 @@ const Sidebar = () => {
 
       <div className="flex justify-between font-semibold w-10/12 items-center">
         <img
-          src="./src/assets/profile.png"
+          src="/src/assets/profile.png"
           title="profile"
           alt="profile"
           className="rounded-[100%]"
